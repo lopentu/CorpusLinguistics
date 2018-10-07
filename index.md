@@ -1,6 +1,7 @@
 ---
 layout: default_cl
 repository_url: https://github.com/lopentu/CorpusLinguistics
+title: Syllabus
 ---
 
 ## Time 
