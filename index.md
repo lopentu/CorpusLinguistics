@@ -11,6 +11,9 @@ Thur. 13:20-16:20
 ## TA
 Richard Lian (<r05142009@ntu.edu.tw>), Chihyao Lee (<chihyaolee@gmail.com>)
 
+## Workshop (11/3, 11/4, 12/15)
+[Website](http://lope.linguistics.ntu.edu.tw/hocor2018/)
+
 ## Syllabus
 
 [Google Doc](https://docs.google.com/document/d/1JOk4AqAA8xkhhnZAuIdmgH7ypxPic6WLI_8nj0AtEE4/edit)
@@ -21,10 +24,10 @@ Richard Lian (<r05142009@ntu.edu.tw>), Chihyao Lee (<chihyaolee@gmail.com>)
 |2    |9/20     |Intro to Corpus Linguistics|[🔗][W2]|[💻][L2]| 
 |3    |9/27     |Intro to Corpus Linguistics|[🔗][W3]|[💻][L3]|[🎒][H3]
 |4    |10/4     |Corpus-based analytical tools|[🔗][W4]|[💻][L4]|[🎒][H4]
-|5    |10/11    |Corpus-based analytical tools| 
-|6    |10/18    |(Prep.) data & code // TA| 
-|7    |10/25    |(Prep.) data & code // TA| 
-|8    |11/1     |(Prep.) data & code // TA| 
+|5    |10/11    |Corpus-based analytical tools|[🔗][W5]|[💻][L5]
+|6    |10/18    |(Prep.) data & code // TA| |[💻][L6]
+|7    |10/25    |(Prep.) data & code // TA| |[💻][L7]
+|8    |11/1     |(Prep.) data & code // TA| |[💻][L8]
 |9    |11/8     |(Midterms) Project presentation| 
 |10   |11/15    |NTU anniver. (no class)| 
 |11   |11/22    |Corpus annotation (no lab)| 
@@ -35,6 +38,7 @@ Richard Lian (<r05142009@ntu.edu.tw>), Chihyao Lee (<chihyaolee@gmail.com>)
 |16   |12/27    |(Prep.) // TA    | 
 |17   |1/3      |Final presentation (corpus + paper)| 
 |18   |1/10     |Turn in paper    | 
+
 
 {% comment %}
 W: Week
@@ -52,3 +56,12 @@ H: Homework
 [W4]: https://drive.google.com/open?id=1efKUKIj6Ob4vF83ReS_oKAnbZtl834CM
 [L4]: https://drive.google.com/open?id=12mukapnDODPjnRtRFzQ5Cz9kPFw0Pwml
 [H4]: https://drive.google.com/open?id=1SWHvADv9AhnN5cBuKVkrT9SojhUhH--r
+
+[W5]: https://drive.google.com/drive/u/0/folders/1KqqlxTb4JLopm3xO_jeOOGlxkb-jFr90
+[L5]: https://drive.google.com/drive/u/0/folders/1Dy0INnP6f3sbymT_ib4Y9oTggOdoQU4R
+
+[L6]: https://drive.google.com/drive/u/0/folders/14NrATR1DVUYqwTCRtc1_aZKcm7PWlF0l
+
+[L7]: https://drive.google.com/drive/u/0/folders/1A2adQaqr7aAd6p5jle4efEOx99S3KgKs
+
+[L8]: https://drive.google.com/drive/u/0/folders/1jdWzmw-D8s3sS7rbnlPq3ybedSqcA9S4
