@@ -28,7 +28,7 @@ Richard Lian (<r05142009@ntu.edu.tw>), Chihyao Lee (<chihyaolee@gmail.com>)
 |6    |10/18    |(Prep.) data & code // TA| |[💻][L6]
 |7    |10/25    |(Prep.) data & code // TA| |[💻][L7]
 |8    |11/1     |(Prep.) data & code // TA| |[💻][L8]
-|9    |11/8     |(Midterms) Project presentation| 
+|9    |11/8     |(Midterms) Project presentation| [🔗][W9]||
 |10   |11/15    |NTU anniver. (no class)| 
 |11   |11/22    |Corpus annotation (no lab)| 
 |12   |11/29    |Corpus statistics| 
@@ -65,5 +65,7 @@ H: Homework
 [L7]: https://drive.google.com/drive/u/0/folders/1A2adQaqr7aAd6p5jle4efEOx99S3KgKs
 
 [L8]: https://drive.google.com/drive/u/0/folders/1jdWzmw-D8s3sS7rbnlPq3ybedSqcA9S4
+
+[W9]: https://drive.google.com/drive/u/0/folders/1zbaAmtvz_3fbRXvvVN7hJZK13MffGqB7
 
 
