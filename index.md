@@ -28,14 +28,14 @@ Richard Lian (<r05142009@ntu.edu.tw>), Chihyao Lee (<chihyaolee@gmail.com>)
 |6    |10/18    |(Prep.) data & code // TA| |[💻][L6]
 |7    |10/25    |(Prep.) data & code // TA| |[💻][L7]
 |8    |11/1     |(Prep.) data & code // TA| |[💻][L8]
-|9    |11/8     |(Midterms) Project presentation| [🔗][W9]||
+|9    |11/8     |(Midterms) Project presentation|[🔗][W9]||
 |10   |11/15    |NTU anniver. (no class)| 
-|11   |11/22    |Corpus annotation (no lab)| 
-|12   |11/29    |Corpus statistics| 
-|13   |12/6     |Case study (FB & TW Democracy)| 
-|14   |12/13    |(Prep.) //  TA 12.15 1-day workshop| 
-|15   |12/20    |(Prep.) // TA    | 
-|16   |12/27    |(Prep.) // TA    | 
+|11   |11/22    |Corpus annotation (no lab)|[🔗][W11]| |[🎒][H11]
+|12   |11/29    |Corpus statistics|[🔗][W12]|
+|13   |12/6     |(Prep.) // TA    | 
+|14   |12/13    |(Prep.) // TA 12.15 1-day workshop| 
+|15   |12/20    |Case study (FB & TW Democracy)|
+|16   |12/27    |(Prep.) 
 |17   |1/3      |Final presentation (corpus + paper)| 
 |18   |1/10     |Turn in paper    | 
 
@@ -68,4 +68,7 @@ H: Homework
 
 [W9]: https://drive.google.com/drive/u/0/folders/1zbaAmtvz_3fbRXvvVN7hJZK13MffGqB7
 
+[W11]: https://drive.google.com/open?id=1hQLimfalqWIANsVXvcbkUVQSQzazgr_Z
+[H11]: https://drive.google.com/open?id=1bWJP0nJDljr1keY0oKEvlrp7fAUBOqD4
 
+[W12]: https://drive.google.com/open?id=1gwPcqTrD86LoFCy-InC6urTghKAvF8Zl
